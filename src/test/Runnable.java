@@ -10,5 +10,7 @@ public class Runnable {
         Dog someBitch = new Dog("Bitchy", "wtf!");
 
         System.out.println(someBitch.speak());
+
+        System.out.println("That's all folks");
     }
 }
