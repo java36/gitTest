@@ -7,10 +7,6 @@ public class Runnable {
 
         System.out.println(scooby.speak());
 
-        Dog someBitch = new Dog("Bitchy", "wtf!");
-
-        System.out.println(someBitch.speak());
-
         System.out.println("That's all folks");
     }
 }
